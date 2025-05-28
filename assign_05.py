@@ -9,7 +9,7 @@ import math
 # Another function specifically made for calculation
 def calculation(height, radius):
     # Calculates volume of cylinder
-    volume = math.pi * radius**2 * height
+    volume = math.pi * radius ** 2 * height
     # Returns back the value of volume to original function
     return volume
 
